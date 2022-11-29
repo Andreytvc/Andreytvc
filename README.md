@@ -17,4 +17,4 @@ Sou estudante de Análise e desenvolvimento de sistemas, iniciante na área de f
 
 # Contatos
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' Alt='Linkedin' height='30'>](linkedin.com/in/andrey-couto-849a67258)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' Alt='Linkedin' height='30'>](linkedin.com/in/andrey-couto-849a67258/)
